@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fontsource/poppins": "^4.5.5",
+    "@fontsource/roboto": "^4.5.5",
     "next": "12.1.5",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "sharp": "^0.30.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.4",
